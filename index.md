@@ -1,5 +1,5 @@
 # 日々のメモ
 
 ## Tips
-[PlayWright を試してみた](./tips/playwright/01-howto.md)
+[PlayWright の使い方](./tips/playwright/01-howto.md)
 
