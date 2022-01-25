@@ -1,6 +1,5 @@
 # 日々のメモ
 
-## 料理
-シンプルに作れて美味しかったものを感想がてらに紹介します。
-- 煮物
+## Tips
+[PlayWright を試してみた](./tips/playwright/01-howto.md)
 
