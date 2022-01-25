@@ -2,7 +2,7 @@
 ## はじめに
 PlayWright とは ブラウザから操作するツール ライブラリです。  
 Web オートメーションを可能とし、E2Eテストでの利用はもちろん、ヘッドレスモードで動かすことによってCIなどでも利用できます。  
-参考: https://playwright.dev/
+参考: [https://playwright.dev/](https://playwright.dev/)
   
 ## 検証環境
 OS: Manjaro Linux (21.2.1)  
