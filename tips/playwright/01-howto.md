@@ -20,7 +20,7 @@ sudo pacman -S npm
 npm i -D playwright
 
 # PlayWright/test のインストール
-npm install -D @playwright/test
+npm i -D @playwright/test
 ```
 
 ## コードの生成
